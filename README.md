@@ -4,7 +4,7 @@
 
 ### Ejercicio 1: Abogabot
   * Toma de requerimientos
-    - Crea tu buyer persona
+    - Buyer persona
   * Publico objetivo
   * Wireframes UX-UI
 
