@@ -1,10 +1,10 @@
 # LaunchX-Frontend
 
-Practicas
+## Practicas
 
-Ejercicio 1: Abogabot
-  Toma de requerimientos
+### Ejercicio 1: Abogabot
+  *Toma de requerimientos
     Crea tu buyer persona
-  Publico objetivo
-  Wireframes UX-UI
+  *Publico objetivo
+  *Wireframes UX-UI
 
