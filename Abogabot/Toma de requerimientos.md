@@ -1,7 +1,7 @@
-*Proyecto: Abogabot
-**Requerimiento: Automatización de las demandas de sus clientes a través de un formulario.
+* Proyecto: Abogabot
+** Requerimiento: Automatización de las demandas de sus clientes a través de un formulario.
 
-***Términos de referencia
+*** Términos de referencia
 - Alcance de la solución
   - Se creará una página responsive que permita a los clientes enviar su demanda y al administrador realizar un seguimiento. Durante el proceso de la demanda se podrá agregar comentarios, los cuales generan un mail de notificación para cada parte cuando la otra cargue algún cambio. 
     La página tendrá un espacio de pago y una plantilla que originará un documento legal, a completar con los datos del formulario de cada demanda.
@@ -9,17 +9,17 @@
 
 - Requerimientos Funcionales y criterios de aceptación 
   - Expectativas para el usuario final: 
-    * Encontrar una página de fácil acceso, intuitiva y simple. 
-    * Que la página sea segura, considerando que se tiene que agregar datos personales y una tarjeta.
+    - Encontrar una página de fácil acceso, intuitiva y simple. 
+    - Que la página sea segura, considerando que se tiene que agregar datos personales y una tarjeta.
 
-Requisitos técnicos
-- Tipo de Desarrollo
-  * Web         
-  * Escritorio    
-  * Móvil 
+- Requisitos técnicos
+  - Tipo de Desarrollo
+    * Web         
+    * Escritorio    
+    * Móvil 
 
 
-***Diseño de arquitectura de la solución
+*** Diseño de arquitectura de la solución
 
 - Vista lógica: Diagrama de secuencia
 - Vista de implementación: Diagrama de componentes
