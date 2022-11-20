@@ -11,10 +11,10 @@
 
 ### Ejercicio 2: HTML - Pastelería
   * HTML puro
-    _ Logo
-    _ Página principal para clientes
-    _ Página para el pastelero (administrador)
+    - Logo
+    - Página principal para clientes
+    - Página para el pastelero (administrador)
   * Página con CSS agregado
-    _ Página principal para clientes
-    _ Formulario de pedido
-    _ Página para el pastelero (administrador)
+    - Página principal para clientes
+    - Formulario de pedido
+    - Página para el pastelero (administrador)
