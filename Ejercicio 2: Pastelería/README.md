@@ -1,6 +1,6 @@
 # Ejercicio 2: Pastelería
 
-## HTML puro
+## HTML Puro
    * Logo
    * Página principal para clientes
    * Página para el pastelero (administrador)
