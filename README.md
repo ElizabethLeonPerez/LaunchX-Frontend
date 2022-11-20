@@ -9,3 +9,6 @@
   * <a href="https://user-images.githubusercontent.com/106758379/202842563-3aaf3def-dbdd-40f5-a8a1-4590ca8febf6.png)">Wireframes</a>
   * <a href="https://user-images.githubusercontent.com/106758379/202842560-0b625bc6-3722-4568-9902-e42b3381744e.png)">UI Wireframes</a>
 
+### Ejercicio 2: HTML - Pastelería
+  * HTML puto
+  * Página con CSS
